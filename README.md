@@ -45,6 +45,10 @@
 ![](https://img.shields.io/badge/-OneNote-7719AA?style=flat-square&logo=microsoft-onenote&logoColor=ffffff)
 
 
+Nuget
+Npm
+
+
 
 
 
