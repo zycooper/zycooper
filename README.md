@@ -20,6 +20,10 @@
 
 ![](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)
+![](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=ffffff)
+![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)
+
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-Excel&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=ffffff)
