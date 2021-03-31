@@ -43,9 +43,9 @@
 ![](https://img.shields.io/badge/-Google%20Keep-FFBB00?style=flat-square&logo=google-keep&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Evernote-00A82D?style=flat-square&logo=Evernote&logoColor=ffffff)
 ![](https://img.shields.io/badge/-OneNote-7719AA?style=flat-square&logo=microsoft-onenote&logoColor=ffffff)
-![](https://img.shields.io/badge/-Nuget-7719AA?style=flat-square&logo=Nuget&logoColor=ffffff)
-![](https://img.shields.io/badge/-Npm-7719AA?style=flat-square&logo=Npm&logoColor=ffffff)
-![](https://img.shields.io/badge/-Jira-7719AA?style=flat-square&logo=Jira&logoColor=ffffff)
+![](https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=Nuget&logoColor=ffffff)
+![](https://img.shields.io/badge/-Npm-CB3837?style=flat-square&logo=Npm&logoColor=ffffff)
+![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=ffffff)
 
 
 
