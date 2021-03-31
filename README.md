@@ -41,6 +41,10 @@
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat-square&logo=Font-Awesome&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Google%20Keep-FFBB00?style=flat-square&logo=google-keep&logoColor=ffffff)
+![](https://img.shields.io/badge/-Evernote-00A82D?style=flat-square&logo=Evernote&logoColor=ffffff)
+![](https://img.shields.io/badge/-Microsoft%20OneNote-7719AA?style=flat-square&logo=microsoft-onenote&logoColor=ffffff)
+
+
 
 
 
