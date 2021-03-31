@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-Excel&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=ffffff)
 ![](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)
@@ -34,18 +33,20 @@
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff)
 ![](https://img.shields.io/badge/-TFS-6264A7?style=flat-square&logo=microsoft-teams&logoColor=ffffff)
+![](https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=Nuget&logoColor=ffffff)
+![](https://img.shields.io/badge/-Npm-CB3837?style=flat-square&logo=Npm&logoColor=ffffff)
+![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Adobe%20Analytics-FF0000?style=flat-square&logo=adobe&logoColor=ffffff)
+![](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-Excel&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat-square&logo=Font-Awesome&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Google%20Keep-FFBB00?style=flat-square&logo=google-keep&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Evernote-00A82D?style=flat-square&logo=Evernote&logoColor=ffffff)
 ![](https://img.shields.io/badge/-OneNote-7719AA?style=flat-square&logo=microsoft-onenote&logoColor=ffffff)
-![](https://img.shields.io/badge/-Nuget-004880?style=flat-square&logo=Nuget&logoColor=ffffff)
-![](https://img.shields.io/badge/-Npm-CB3837?style=flat-square&logo=Npm&logoColor=ffffff)
-![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=ffffff)
+
 
 
 
