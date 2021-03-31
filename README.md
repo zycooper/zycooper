@@ -7,14 +7,15 @@
 ![](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=ffffff)
 ![](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+
 ![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
-![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 
